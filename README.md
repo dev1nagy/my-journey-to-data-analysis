@@ -1,18 +1,18 @@
 # My Journey to Data Analysis 📊
 
-This repository is a **personal training portfolio** where I track my progress and document everything I learn and practice on my journey to becoming a professional Data Analyst.
+This repository is a **personal training and learning portfolio** where I track my progress and document everything I learn on my journey to becoming a professional Data Analyst.
 
-It reflects continuous learning, hands-on practice, and skill development across both technical and soft skills.
+It reflects continuous improvement, hands-on practice, and a strong commitment to both technical and soft skills.
 
 ---
 
 ## 🎯 Purpose of This Repository
-- Track my learning progress over time
-- Document practical work and exercises
-- Build a clear and organized data analysis portfolio
-- Demonstrate consistency, discipline, and growth
+- Track my learning progress over time  
+- Document practical exercises and projects  
+- Build a structured and transparent portfolio  
+- Prepare for professional data analysis roles  
 
-This repository is continuously updated as I learn and improve.
+This repository is continuously updated as I learn and grow.
 
 ---
 
@@ -22,7 +22,7 @@ This repository is continuously updated as I learn and improve.
 - Data cleaning and preparation  
 - Formulas & functions  
 - Pivot tables  
-- Data analysis basics  
+- Basic data analysis  
 
 ### 📌 SQL
 - Data querying  
@@ -37,7 +37,7 @@ This repository is continuously updated as I learn and improve.
 - Business insights visualization  
 
 ### 📌 Python
-- Python basics  
+- Python fundamentals  
 - Pandas & NumPy  
 - Data analysis workflows  
 - Data visualization  
@@ -67,26 +67,47 @@ This repository is continuously updated as I learn and improve.
 
 ---
 
+## 🎓 Certifications Target
+I am actively preparing for the following certifications:
+- Microsoft Data Analyst Certification  
+- Google Data Analytics Certification  
+
+These certifications represent key milestones in my professional development plan.
+
+---
+
+## 📚 Learning Resources
+
+### 📌 Data Analysis Platforms
+- DataCamp  
+- Coursera  
+
+### 📌 English Language Resources
+- Voice of America (VOA Learning English)  
+- BBC Learning English  
+
+---
+
 ## 📂 Repository Structure
-- **Excel**: Practice files and analysis work  
-- **SQL**: Queries, exercises, and projects  
-- **Power BI**: Dashboards and reports  
-- **Python**: Analysis scripts and notebooks  
-- **AI**: Experiments and learning notes  
+- **Excel/**: Practice files and analysis work  
+- **SQL/**: Queries, exercises, and projects  
+- **PowerBI/**: Dashboards and reports  
+- **Python/**: Analysis scripts and notebooks  
+- **AI/**: AI learning notes and experiments  
+- **Soft-Skills/**: Communication, problem solving, and English practice  
+- **Resources/**: Notes and references from learning platforms  
 
 ---
 
 ## 🚀 Learning Mindset
-This repository represents:
 - Consistency over perfection  
 - Learning by doing  
-- Respect for fundamentals while embracing modern tools  
+- Strong fundamentals with modern tools  
 
 Progress matters more than speed.
 
 ---
 
 ## 📌 Note
-This is a **training and learning repository**, not finished products.  
-Mistakes, improvements, and iterations are part of the journey.
-
+This is a **training and learning repository**, not a collection of final products.  
+Mistakes, revisions, and improvements are part of the journey.
