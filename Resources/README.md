@@ -4,30 +4,30 @@
 This folder contains notes and references from learning platforms and educational resources.
 
 Main Sources:
-DataCamp: datacamp.com
+DataCamp -> https://www.datacamp.com
 
-Coursera: coursera.org
+Coursera -> https://www.coursera.org
 
-W3Schools: w3schools.com
+W3Schools -> https://www.w3schools.com/
 
-VOA Learning English: learningenglish.voanews.com
+VOA Learning English -> https://learningenglish.voanews.com
 
-BBC Learning English: bbc.co.uk/learningenglish
+BBC Learning English -> https://www.bbc.co.uk/learningenglish
 
-SQL Tutorial: sqltutorial.org
+SQL Tutorial -> https://www.sqltutorial.org
 
-Data Viz Project: datavizproject.com
+Data Viz Project -> https://datavizproject.com
 
-Visual Vocabulary: ft-interactive.github.io/visual-vocabulary
+Visual Vocabulary (FT) -> https://ft-interactive.github.io/visual-vocabulary/
 
-FiveThirtyEight Data: data.fivethirtyeight.com
+FiveThirtyEight Data -> https://data.fivethirtyeight.com/
 
-Visual Data Science Book: vdsbook.com
+Visual Data Science Book -> https://vdsbook.com/
 
-Data Analytics Project Life Cycle: pingax.com
+Data Analytics Project Life Cycle -> https://pingax.com/Data%20Analyst/understanding-data-analytics-project-life-cycle/#google_vignette
 
-Deloitte Data Analytics Simulation (Forage): theforage.com
+Deloitte Data Analytics Job Simulation -> https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy?reloaded=true
 
-Xenographics: xeno.graphics
+Xenographics -> https://xeno.graphics/
 
 
